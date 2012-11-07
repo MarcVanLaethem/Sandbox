@@ -11,4 +11,11 @@ This is a text line with id number 007
 This is a text line with id number 008
 This is a text line with id number 009
 
+Additional lines added on 7/11/2012 as modification
+This is a text line with id number 010
+This is a text line with id number 011
+This is a text line with id number 012
+This is a text line with id number 013
+This is a text line with id number 014
+
 End of text
