@@ -18,4 +18,12 @@ This is a text line with id number 012
 This is a text line with id number 013
 This is a text line with id number 014
 
+I added another modification using notepad
+This is a text line with id number 015
+This is a text line with id number 016
+This is a text line with id number 017
+This is a text line with id number 018
+This is a text line with id number 019
+This is a text line with id number 020
+
 End of text
